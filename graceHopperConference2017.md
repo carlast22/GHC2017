@@ -11,12 +11,6 @@ output: index.html
 
 --
 
-## ¿Por qué solo un acercamiento?
-* Porque es una de las conferencias masivas más reconocidas para mujeres en TI.
-* No vi ni la 4ta parte. (ya les cuento por qué)
-
---
-
 ## Algunas cosas que debemos saber antes de hablar de la conferencia:
 * ¿Sabes quién es Grace Hopper?
 * ¿Sabes qué es el Instituto Anita Borg?
@@ -73,7 +67,7 @@ output: index.html
 
 --
 
-# Y por qué digo que no vi ni la 4ta parte...
+# ¿Y la conferencia?...
 
 --
 
