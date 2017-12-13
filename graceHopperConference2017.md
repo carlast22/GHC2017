@@ -1,12 +1,21 @@
-title: Crucial Conversations
-author: name: Carla Suárez
-twitter: carlast22
-url: http://carlast22.github.io/graceHopperConference2017
+title: Grace Hopper Celebration 2017
+author:
+  name: Carla Suárez
+  twitter: carlast22
+  url: http://carlast22.github.io/GHC2017/
 style: style.css
-output: graceHopperConference2017-cleaver.html
+output: index.html
 
 --
 
-# Un acercamiento al Grace Hopper Conference 2017
+# Grace Hopper Celebration 2017 of Women in Computing
+
+--
+
+## Quién es Grace Hopper?
+
+--
+
+## Qué es blah?
 
 
