@@ -77,4 +77,41 @@ output: index.html
 # Y por qué digo que no vi ni la 4ta parte...
 
 --
+
 ![alt-text](https://github.com/carlast22/GHC2017/blob/gh-pages/images/tweet.png?raw=true)
+
+--
+
+* 18.000 asistentes, la mayoría mujeres.
+* Entradas agotadas al 4to día de venta.
+* Más de 500 empresas que ofertaban trabajos.
+* Un escenario con 3 pantallas para poder ver en todos lados.
+* Y con alrededor de 24 sesiones simultáneas.
+
+--
+
+## Imposible ver todo :(
+
+--
+
+## GHC tuvo de todo: increíbles speakers, charlas técnicas, de habilidades blandas, coaching y mentoring, reuniones de networking.
+
+--
+
+# **MOTIVADORA**
+
+--
+
+![alt-text](https://media.licdn.com/media-proxy/ext?w=800&h=800&hash=C%2BJwXQxfoKpDXYn9OFgy06tX2nY%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta9Er0Vinkhwfjw8177yE41y87UNCVordEGXyD3u0qYrdf3C9esXdeuH0uQgRcC0clAYwefL5FjS3D5O8ednnKdR42pe2I427dA4BYBI3iSdF_NQ8)
+
+--
+
+![alt-text](https://ghcindia.anitab.org/wp-content/uploads/sites/3/2017/03/biec_exhibition1.png)
+
+--
+
+![alt-text]()
+
+--
+
+
