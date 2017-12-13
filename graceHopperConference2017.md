@@ -65,6 +65,8 @@ output: index.html
 * Hicimos entrevistas en el evento a cerca de 40 personas
 * Y no se a cuántas contratamos al final :D
 
+[https://www.thoughtworks.com/ghc17](https://www.thoughtworks.com/ghc17)
+
 --
 
 # ¿Y la conferencia?...
