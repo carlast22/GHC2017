@@ -1,7 +1,6 @@
 title: Grace Hopper Celebration 2017
 author:
   name: Carla Suárez
-  twitter: carlast22
   url: http://carlast22.github.io/GHC2017
 style: style.css
 output: index.html
@@ -118,4 +117,11 @@ output: index.html
 * 26 al 28 de septiembre en Houston.
 * Las Twers que ya han asistido llevan a cabo algunas reuniones para ayudarse en propuestas y trabajar juntas a través de feedback.
 * Prepararnos para ir como Ecuador.
-* Llevar este impacto a jóvenes.
+
+--
+
+# Llevar este impacto a jóvenes ecuatorianas
+
+--
+
+# **¿Preguntas?**
