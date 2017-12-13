@@ -1,5 +1,5 @@
 body {
-  background-color: #003056;
+  background-color: #180e36;
   color: #ffffff;
   font-size: 1em;
   line-height: 2.2em;
@@ -10,7 +10,7 @@ a {
   font-style: bold;
 }
 h1 {
-  color: #ffff00;
+  color: #8e22cf;
   font-size: 2.9em;
   margin-top: 100px;
 }
@@ -29,5 +29,9 @@ h3 {
 .author  h1 {
   font-size: 2em;
   font-style: bold;
+}
+
+.slide {
+  background-color: #180e36;
 }
 
