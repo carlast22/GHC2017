@@ -85,16 +85,16 @@ output: index.html
 * 18.000 asistentes, la mayoría mujeres.
 * Entradas agotadas al 4to día de venta.
 * Más de 500 empresas que ofertaban trabajos.
-* Un escenario con 3 pantallas para poder ver en todos lados.
-* Y con alrededor de 24 sesiones simultáneas.
+* Un escenario con 6 pantallas para poder ver en todos lados.
+* Y con alrededor de 24 sesiones simultáneas por track.
 
 --
 
-## Imposible ver todo :(
+# Imposible ver todo :(
 
 --
 
-## GHC tuvo de todo: increíbles speakers, charlas técnicas, de habilidades blandas, coaching y mentoring, reuniones de networking.
+## GHC tuvo de todo: increíbles speakers, charlas técnicas, de habilidades blandas, coaching y mentoring, reuniones de networking, proyectos open source, etc.
 
 --
 
@@ -110,8 +110,12 @@ output: index.html
 
 --
 
-![alt-text]()
+![alt-text](https://github.com/carlast22/GHC2017/blob/gh-pages/images/foto.jpeg?raw=true)
 
 --
 
-
+## Y para el 2018...
+* 26 al 28 de septiembre en Houston.
+* Las Twers que ya han asistido llevan a cabo algunas reuniones para ayudarse en propuestas y trabajar juntas a través de feedback.
+* Prepararnos para ir como Ecuador.
+* Llevar este impacto a jóvenes.
