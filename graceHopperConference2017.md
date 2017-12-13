@@ -77,4 +77,4 @@ output: index.html
 # Y por qué digo que no vi ni la 4ta parte...
 
 --
-![alt-text](/images/tweet1.png)
+![alt-text](https://github.com/carlast22/GHC2017/blob/gh-pages/images/tweet.png?raw=true)
